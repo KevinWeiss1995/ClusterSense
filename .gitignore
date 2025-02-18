@@ -172,3 +172,25 @@ cython_debug/
 
 # ignore results
 results/
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+results/
+*.log
+data/*.csv
+
+# Model outputs and results
+results/
+saved_models/
+*.joblib
+*.pkl
+model_outputs/
