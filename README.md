@@ -26,7 +26,7 @@ python train/temp_anomaly_train.py --data-path data/data.csv
 ## Project Structure
 
 .
-├── models/
+├── models/ \n
 │   └── temperature_anomaly_model.py
 ├── preprocess/
 │   └── preprocess.py
