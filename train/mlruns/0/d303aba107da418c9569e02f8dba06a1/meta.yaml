@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kweiss/git/ClusterSense/train/mlruns/0/d303aba107da418c9569e02f8dba06a1/artifacts
+end_time: 1739852954630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d303aba107da418c9569e02f8dba06a1
+run_name: painted-wolf-256
+run_uuid: d303aba107da418c9569e02f8dba06a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739852954431
+status: 4
+tags: []
+user_id: kweiss
