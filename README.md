@@ -27,14 +27,15 @@ python train/temp_anomaly_train.py --data-path data/data.csv
 
 .
 ├── models/
-│ └── temperature_anomaly_model.py
+│   └── temperature_anomaly_model.py
 ├── preprocess/
-│ └── preprocess.py
+│   └── preprocess.py
 ├── utils/
-│ └── path_utils.py
+│   └── path_utils.py
 ├── train/
-│ └── temp_anomaly_train.py
+│   └── temp_anomaly_train.py
 └── tests/
-└── test_preprocessing.py
+    └── test_preprocessing.py
+
 
 
