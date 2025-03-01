@@ -1,0 +1,878 @@
+Failure Intervals Analysis:
+node-233: Avg 715.07 hours between failures
+node-228: Avg 441.29 hours between failures
+node-ms0: Avg 494.82 hours between failures
+node-128: Avg 2369.90 hours between failures
+node-160: Avg 3159.86 hours between failures
+node-158: Avg 2708.46 hours between failures
+node-191: Avg 3791.84 hours between failures
+node-159: Avg 2708.46 hours between failures
+node-183: Avg 3159.86 hours between failures
+node-156: Avg 2708.46 hours between failures
+node-188: Avg 3791.84 hours between failures
+node-155: Avg 2708.46 hours between failures
+node-186: Avg 3159.86 hours between failures
+node-150: Avg 2708.46 hours between failures
+node-190: Avg 3791.84 hours between failures
+node-148: Avg 2708.46 hours between failures
+node-173: Avg 3791.84 hours between failures
+node-142: Avg 2708.46 hours between failures
+node-184: Avg 3159.86 hours between failures
+node-153: Avg 2708.46 hours between failures
+node-177: Avg 3159.86 hours between failures
+node-139: Avg 2708.46 hours between failures
+node-174: Avg 3791.84 hours between failures
+node-143: Avg 2708.46 hours between failures
+node-182: Avg 3159.86 hours between failures
+node-145: Avg 2708.46 hours between failures
+node-146: Avg 2708.46 hours between failures
+node-169: Avg 3791.84 hours between failures
+node-167: Avg 3791.84 hours between failures
+node-137: Avg 2708.46 hours between failures
+node-172: Avg 3791.84 hours between failures
+node-141: Avg 2369.90 hours between failures
+node-131: Avg 2708.46 hours between failures
+node-179: Avg 3159.86 hours between failures
+node-130: Avg 2708.46 hours between failures
+node-170: Avg 3791.84 hours between failures
+node-134: Avg 2708.46 hours between failures
+node-166: Avg 3791.84 hours between failures
+node-135: Avg 2708.46 hours between failures
+node-171: Avg 3791.84 hours between failures
+node-136: Avg 2708.46 hours between failures
+node-187: Avg 2708.46 hours between failures
+node-152: Avg 2708.46 hours between failures
+node-185: Avg 3159.86 hours between failures
+node-157: Avg 2369.90 hours between failures
+node-132: Avg 2708.46 hours between failures
+node-163: Avg 3791.84 hours between failures
+node-154: Avg 2708.46 hours between failures
+node-175: Avg 3791.84 hours between failures
+node-151: Avg 1963.98 hours between failures
+node-162: Avg 3791.84 hours between failures
+node-144: Avg 2708.46 hours between failures
+node-189: Avg 2708.46 hours between failures
+node-149: Avg 2708.46 hours between failures
+node-180: Avg 3159.86 hours between failures
+node-138: Avg 2708.46 hours between failures
+node-181: Avg 3159.86 hours between failures
+node-147: Avg 2708.46 hours between failures
+node-178: Avg 2369.90 hours between failures
+node-140: Avg 2708.46 hours between failures
+node-176: Avg 3159.86 hours between failures
+node-129: Avg 1801.82 hours between failures
+node-168: Avg 3791.84 hours between failures
+node-133: Avg 2708.46 hours between failures
+node-165: Avg 3791.84 hours between failures
+node-164: Avg 3791.84 hours between failures
+node-161: Avg 3791.84 hours between failures
+node-30: Avg 1966.83 hours between failures
+node-29: Avg 1966.83 hours between failures
+node-31: Avg 2622.44 hours between failures
+node-28: Avg 2247.80 hours between failures
+node-25: Avg 874.15 hours between failures
+node-26: Avg 925.57 hours between failures
+node-27: Avg 874.15 hours between failures
+node-32: Avg 682.81 hours between failures
+node-34: Avg 1160.77 hours between failures
+node-35: Avg 1160.77 hours between failures
+node-235: Avg 3863.61 hours between failures
+node-126: Avg 299.17 hours between failures
+node-124: Avg 299.17 hours between failures
+node-118: Avg 299.17 hours between failures
+node-127: Avg 299.17 hours between failures
+node-112: Avg 341.91 hours between failures
+node-125: Avg 299.17 hours between failures
+node-110: Avg 1501.22 hours between failures
+node-104: Avg 1501.22 hours between failures
+node-106: Avg 1501.22 hours between failures
+node-108: Avg 1501.22 hours between failures
+node-105: Avg 1501.22 hours between failures
+node-111: Avg 1501.22 hours between failures
+node-107: Avg 1501.22 hours between failures
+node-102: Avg 1501.22 hours between failures
+node-109: Avg 1501.22 hours between failures
+node-103: Avg 1501.22 hours between failures
+node-100: Avg 1501.22 hours between failures
+node-101: Avg 1501.22 hours between failures
+node-10: Avg 1509.72 hours between failures
+node-250: Avg 1372.48 hours between failures
+node-249: Avg 1161.33 hours between failures
+node-8: Avg 1258.10 hours between failures
+node-9: Avg 1546.55 hours between failures
+node-251: Avg 1258.10 hours between failures
+node-11: Avg 1161.33 hours between failures
+node-13: Avg 1079.66 hours between failures
+node-12: Avg 839.74 hours between failures
+node-248: Avg 888.07 hours between failures
+node-96: Avg 1391.19 hours between failures
+node-64: Avg 1537.85 hours between failures
+node-14: Avg 838.73 hours between failures
+node-15: Avg 888.07 hours between failures
+node-246: Avg 888.07 hours between failures
+node-247: Avg 943.57 hours between failures
+node-245: Avg 888.07 hours between failures
+node-244: Avg 943.57 hours between failures
+node-33: Avg 898.12 hours between failures
+node-97: Avg 252.78 hours between failures
+node-192: Avg 285.13 hours between failures
+node-1: Avg 648.74 hours between failures
+node-0: Avg 746.05 hours between failures
+node-2: Avg 648.74 hours between failures
+node-3: Avg 2486.84 hours between failures
+node-224: Avg 637.18 hours between failures
+node-225: Avg 868.03 hours between failures
+node-226: Avg 868.03 hours between failures
+node-23: Avg 1136.63 hours between failures
+node-227: Avg 4854.90 hours between failures
+node-200: Avg 221.10 hours between failures
+node-197: Avg 255.34 hours between failures
+node-194: Avg 224.73 hours between failures
+node-201: Avg 272.41 hours between failures
+node-193: Avg 272.35 hours between failures
+node-198: Avg 272.35 hours between failures
+node-203: Avg 221.10 hours between failures
+node-195: Avg 224.73 hours between failures
+node-202: Avg 264.07 hours between failures
+node-196: Avg 236.35 hours between failures
+node-199: Avg 268.16 hours between failures
+node-20: Avg 856.26 hours between failures
+node-22: Avg 969.64 hours between failures
+node-242: Avg 4524.99 hours between failures
+node-230: Avg 4524.98 hours between failures
+node-17: Avg 1696.87 hours between failures
+node-18: Avg 1696.87 hours between failures
+node-16: Avg 1939.28 hours between failures
+node-229: Avg 3393.74 hours between failures
+node-241: Avg 6787.48 hours between failures
+node-21: Avg 1131.25 hours between failures
+node-24: Avg 1044.23 hours between failures
+node-240: Avg 6787.48 hours between failures
+node-7: Avg 2719.92 hours between failures
+node-234: Avg 1236.33 hours between failures
+node-232: Avg 4533.21 hours between failures
+node-123: Avg 32.57 hours between failures
+node-122: Avg 32.57 hours between failures
+node-120: Avg 32.57 hours between failures
+node-119: Avg 32.57 hours between failures
+node-121: Avg 32.57 hours between failures
+node-117: Avg 32.57 hours between failures
+node-116: Avg 32.57 hours between failures
+node-115: Avg 32.57 hours between failures
+node-114: Avg 32.57 hours between failures
+node-113: Avg 32.57 hours between failures
+node-95: Avg 1665.99 hours between failures
+node-92: Avg 833.00 hours between failures
+node-88: Avg 1851.10 hours between failures
+node-94: Avg 1851.10 hours between failures
+node-93: Avg 1851.10 hours between failures
+node-91: Avg 1851.10 hours between failures
+node-90: Avg 1851.10 hours between failures
+node-89: Avg 1851.10 hours between failures
+node-99: Avg 32.57 hours between failures
+node-98: Avg 32.57 hours between failures
+node-87: Avg 1851.10 hours between failures
+node-86: Avg 1851.10 hours between failures
+node-85: Avg 1851.10 hours between failures
+node-84: Avg 1851.10 hours between failures
+node-83: Avg 1851.10 hours between failures
+node-82: Avg 1851.10 hours between failures
+node-81: Avg 1851.10 hours between failures
+node-80: Avg 1851.10 hours between failures
+node-79: Avg 1851.10 hours between failures
+node-78: Avg 1851.10 hours between failures
+node-77: Avg 1851.10 hours between failures
+node-76: Avg 1851.10 hours between failures
+node-75: Avg 1189.99 hours between failures
+node-74: Avg 1189.99 hours between failures
+node-73: Avg 1189.99 hours between failures
+node-72: Avg 1189.99 hours between failures
+node-71: Avg 793.33 hours between failures
+node-70: Avg 979.99 hours between failures
+node-69: Avg 979.99 hours between failures
+node-68: Avg 793.33 hours between failures
+node-67: Avg 724.34 hours between failures
+node-66: Avg 979.99 hours between failures
+node-65: Avg 1189.99 hours between failures
+node-231: Avg 633.37 hours between failures
+node-49: Avg 2.06 hours between failures
+node-50: Avg 2.06 hours between failures
+node-60: Avg 2.06 hours between failures
+node-62: Avg 2.06 hours between failures
+node-52: Avg 2.06 hours between failures
+node-55: Avg 2.06 hours between failures
+node-38: Avg 2.06 hours between failures
+node-45: Avg 2.06 hours between failures
+node-46: Avg 2.06 hours between failures
+node-48: Avg 2.06 hours between failures
+node-61: Avg 2.06 hours between failures
+node-42: Avg 2.06 hours between failures
+node-43: Avg 2.06 hours between failures
+node-36: Avg 2.06 hours between failures
+node-39: Avg 2.06 hours between failures
+node-41: Avg 2.06 hours between failures
+node-51: Avg 2.06 hours between failures
+node-40: Avg 2.06 hours between failures
+node-59: Avg 2.06 hours between failures
+node-53: Avg 3042.71 hours between failures
+node-56: Avg 2.06 hours between failures
+node-57: Avg 2.06 hours between failures
+node-58: Avg 2.06 hours between failures
+node-47: Avg 2.06 hours between failures
+node-54: Avg 2.06 hours between failures
+node-63: Avg 2.06 hours between failures
+node-44: Avg 2.06 hours between failures
+node-37: Avg 2.06 hours between failures
+node-205: Avg 1187.91 hours between failures
+node-207: Avg 3325.22 hours between failures
+node-211: Avg 2660.17 hours between failures
+node-208: Avg 3325.22 hours between failures
+node-210: Avg 1108.41 hours between failures
+node-218: Avg 13300.87 hours between failures
+node-221: Avg 13300.87 hours between failures
+node-214: Avg 2660.17 hours between failures
+node-217: Avg 13300.87 hours between failures
+node-238: Avg 3325.22 hours between failures
+node-212: Avg 2660.17 hours between failures
+node-222: Avg 3325.22 hours between failures
+node-243: Avg 6650.44 hours between failures
+node-213: Avg 2660.17 hours between failures
+node-209: Avg 3325.22 hours between failures
+node-252: Avg 13300.87 hours between failures
+node-236: Avg 6650.44 hours between failures
+node-239: Avg 6650.44 hours between failures
+node-223: Avg 13300.87 hours between failures
+node-237: Avg 6650.44 hours between failures
+node-215: Avg 2660.17 hours between failures
+node-219: Avg 6650.44 hours between failures
+node-204: Avg 3325.22 hours between failures
+node-206: Avg 1396.04 hours between failures
+node-220: Avg 13300.87 hours between failures
+node-254: Avg 13300.87 hours between failures
+node-216: Avg 13300.87 hours between failures
+node-255: Avg 13300.87 hours between failures
+node-253: Avg 13300.87 hours between failures
+node-19: Avg 1439.57 hours between failures
+node-5: Avg 1375.69 hours between failures
+node-6: Avg 1375.69 hours between failures
+node-4: Avg 1375.69 hours between failures
+
+Related Failures Analysis:
+Found 124 clusters of related failures
+
+Cluster 1: 4 nodes failed within 5 minutes
+  node-ms0 at 2004-01-16 22:14:33
+  node-ms0 at 2004-01-16 22:14:33
+  node-ms0 at 2004-01-16 22:19:30
+  node-ms0 at 2004-01-16 22:19:30
+
+Cluster 2: 128 nodes failed within 5 minutes
+  node-128 at 2004-01-17 00:49:23
+  node-160 at 2004-01-17 00:49:23
+  node-191 at 2004-01-17 00:49:23
+  node-159 at 2004-01-17 00:49:23
+  node-183 at 2004-01-17 00:49:23
+  node-156 at 2004-01-17 00:49:23
+  node-188 at 2004-01-17 00:49:23
+  node-155 at 2004-01-17 00:49:23
+  node-186 at 2004-01-17 00:49:23
+  node-150 at 2004-01-17 00:49:23
+  node-190 at 2004-01-17 00:49:23
+  node-148 at 2004-01-17 00:49:23
+  node-184 at 2004-01-17 00:49:23
+  node-153 at 2004-01-17 00:49:23
+  node-177 at 2004-01-17 00:49:23
+  node-139 at 2004-01-17 00:49:23
+  node-174 at 2004-01-17 00:49:23
+  node-143 at 2004-01-17 00:49:23
+  node-182 at 2004-01-17 00:49:23
+  node-145 at 2004-01-17 00:49:23
+  node-146 at 2004-01-17 00:49:23
+  node-137 at 2004-01-17 00:49:23
+  node-173 at 2004-01-17 00:49:23
+  node-142 at 2004-01-17 00:49:23
+  node-158 at 2004-01-17 00:49:23
+  node-156 at 2004-01-17 00:49:23
+  node-146 at 2004-01-17 00:49:23
+  node-145 at 2004-01-17 00:49:23
+  node-182 at 2004-01-17 00:49:23
+  node-143 at 2004-01-17 00:49:23
+  node-174 at 2004-01-17 00:49:23
+  node-139 at 2004-01-17 00:49:23
+  node-177 at 2004-01-17 00:49:23
+  node-153 at 2004-01-17 00:49:23
+  node-184 at 2004-01-17 00:49:23
+  node-142 at 2004-01-17 00:49:23
+  node-173 at 2004-01-17 00:49:23
+  node-148 at 2004-01-17 00:49:23
+  node-190 at 2004-01-17 00:49:23
+  node-150 at 2004-01-17 00:49:23
+  node-186 at 2004-01-17 00:49:23
+  node-155 at 2004-01-17 00:49:23
+  node-188 at 2004-01-17 00:49:23
+  node-137 at 2004-01-17 00:49:23
+  node-183 at 2004-01-17 00:49:23
+  node-159 at 2004-01-17 00:49:23
+  node-191 at 2004-01-17 00:49:23
+  node-128 at 2004-01-17 00:49:23
+  node-158 at 2004-01-17 00:49:23
+  node-160 at 2004-01-17 00:49:23
+  node-152 at 2004-01-17 00:49:24
+  node-189 at 2004-01-17 00:49:24
+  node-149 at 2004-01-17 00:49:24
+  node-180 at 2004-01-17 00:49:24
+  node-138 at 2004-01-17 00:49:24
+  node-181 at 2004-01-17 00:49:24
+  node-147 at 2004-01-17 00:49:24
+  node-178 at 2004-01-17 00:49:24
+  node-140 at 2004-01-17 00:49:24
+  node-176 at 2004-01-17 00:49:24
+  node-129 at 2004-01-17 00:49:24
+  node-168 at 2004-01-17 00:49:24
+  node-133 at 2004-01-17 00:49:24
+  node-165 at 2004-01-17 00:49:24
+  node-164 at 2004-01-17 00:49:24
+  node-161 at 2004-01-17 00:49:24
+  node-144 at 2004-01-17 00:49:24
+  node-162 at 2004-01-17 00:49:24
+  node-151 at 2004-01-17 00:49:24
+  node-175 at 2004-01-17 00:49:24
+  node-187 at 2004-01-17 00:49:24
+  node-136 at 2004-01-17 00:49:24
+  node-171 at 2004-01-17 00:49:24
+  node-135 at 2004-01-17 00:49:24
+  node-166 at 2004-01-17 00:49:24
+  node-157 at 2004-01-17 00:49:24
+  node-170 at 2004-01-17 00:49:24
+  node-185 at 2004-01-17 00:49:24
+  node-130 at 2004-01-17 00:49:24
+  node-131 at 2004-01-17 00:49:24
+  node-141 at 2004-01-17 00:49:24
+  node-172 at 2004-01-17 00:49:24
+  node-132 at 2004-01-17 00:49:24
+  node-163 at 2004-01-17 00:49:24
+  node-154 at 2004-01-17 00:49:24
+  node-167 at 2004-01-17 00:49:24
+  node-179 at 2004-01-17 00:49:24
+  node-134 at 2004-01-17 00:49:24
+  node-172 at 2004-01-17 00:49:24
+  node-157 at 2004-01-17 00:49:24
+  node-154 at 2004-01-17 00:49:24
+  node-163 at 2004-01-17 00:49:24
+  node-169 at 2004-01-17 00:49:24
+  node-185 at 2004-01-17 00:49:24
+  node-152 at 2004-01-17 00:49:24
+  node-187 at 2004-01-17 00:49:24
+  node-136 at 2004-01-17 00:49:24
+  node-175 at 2004-01-17 00:49:24
+  node-171 at 2004-01-17 00:49:24
+  node-166 at 2004-01-17 00:49:24
+  node-134 at 2004-01-17 00:49:24
+  node-170 at 2004-01-17 00:49:24
+  node-130 at 2004-01-17 00:49:24
+  node-179 at 2004-01-17 00:49:24
+  node-131 at 2004-01-17 00:49:24
+  node-141 at 2004-01-17 00:49:24
+  node-135 at 2004-01-17 00:49:24
+  node-151 at 2004-01-17 00:49:24
+  node-132 at 2004-01-17 00:49:24
+  node-144 at 2004-01-17 00:49:24
+  node-169 at 2004-01-17 00:49:24
+  node-167 at 2004-01-17 00:49:24
+  node-161 at 2004-01-17 00:49:24
+  node-164 at 2004-01-17 00:49:24
+  node-162 at 2004-01-17 00:49:24
+  node-133 at 2004-01-17 00:49:24
+  node-168 at 2004-01-17 00:49:24
+  node-129 at 2004-01-17 00:49:24
+  node-176 at 2004-01-17 00:49:24
+  node-165 at 2004-01-17 00:49:24
+  node-178 at 2004-01-17 00:49:24
+  node-147 at 2004-01-17 00:49:24
+  node-181 at 2004-01-17 00:49:24
+  node-138 at 2004-01-17 00:49:24
+  node-140 at 2004-01-17 00:49:24
+  node-180 at 2004-01-17 00:49:24
+  node-149 at 2004-01-17 00:49:24
+  node-189 at 2004-01-17 00:49:24
+
+Cluster 3: 10 nodes failed within 5 minutes
+  node-30 at 2004-01-31 00:36:59
+  node-29 at 2004-01-31 00:37:00
+  node-31 at 2004-01-31 00:37:00
+  node-28 at 2004-01-31 00:37:00
+  node-25 at 2004-01-31 00:37:00
+  node-26 at 2004-01-31 00:37:00
+  node-27 at 2004-01-31 00:37:00
+  node-32 at 2004-01-31 00:37:00
+  node-34 at 2004-01-31 00:37:00
+  node-35 at 2004-01-31 00:37:00
+
+Cluster 4: 6 nodes failed within 5 minutes
+  node-125 at 2004-02-11 03:03:28
+  node-127 at 2004-02-11 03:03:28
+  node-112 at 2004-02-11 03:03:28
+  node-118 at 2004-02-11 03:03:29
+  node-126 at 2004-02-11 03:03:29
+  node-124 at 2004-02-11 03:03:29
+
+Cluster 5: 12 nodes failed within 5 minutes
+  node-101 at 2004-02-20 15:55:50
+  node-103 at 2004-02-20 15:55:51
+  node-100 at 2004-02-20 15:55:51
+  node-105 at 2004-02-20 15:55:51
+  node-111 at 2004-02-20 15:55:51
+  node-107 at 2004-02-20 15:55:51
+  node-102 at 2004-02-20 15:55:51
+  node-109 at 2004-02-20 15:55:51
+  node-110 at 2004-02-20 15:55:52
+  node-104 at 2004-02-20 15:55:52
+  node-108 at 2004-02-20 15:55:52
+  node-106 at 2004-02-20 15:55:52
+
+Network Changes Analysis:
+Network changes in hour before failure:
+node-128: 6 changes
+node-160: 3 changes
+node-158: 12 changes
+node-191: 10 changes
+node-159: 12 changes
+node-183: 10 changes
+node-156: 12 changes
+node-188: 10 changes
+node-155: 12 changes
+node-186: 10 changes
+node-150: 12 changes
+node-190: 10 changes
+node-148: 12 changes
+node-173: 10 changes
+node-142: 12 changes
+node-184: 10 changes
+node-153: 12 changes
+node-177: 10 changes
+node-139: 12 changes
+node-174: 10 changes
+node-143: 12 changes
+node-182: 10 changes
+node-145: 12 changes
+node-146: 12 changes
+node-169: 10 changes
+node-167: 2 changes
+node-137: 12 changes
+node-172: 10 changes
+node-141: 12 changes
+node-131: 4 changes
+node-179: 10 changes
+node-130: 4 changes
+node-170: 10 changes
+node-134: 4 changes
+node-166: 2 changes
+node-135: 4 changes
+node-171: 10 changes
+node-136: 12 changes
+node-187: 10 changes
+node-152: 12 changes
+node-185: 10 changes
+node-157: 12 changes
+node-132: 4 changes
+node-163: 2 changes
+node-154: 12 changes
+node-175: 10 changes
+node-151: 8 changes
+node-162: 2 changes
+node-144: 12 changes
+node-189: 10 changes
+node-149: 12 changes
+node-180: 10 changes
+node-138: 12 changes
+node-181: 10 changes
+node-147: 12 changes
+node-178: 10 changes
+node-140: 12 changes
+node-176: 10 changes
+node-129: 5 changes
+node-168: 10 changes
+node-133: 4 changes
+node-165: 2 changes
+node-164: 2 changes
+node-161: 2 changes
+node-30: 2 changes
+node-29: 4 changes
+node-31: 2 changes
+node-28: 2 changes
+node-25: 16 changes
+node-26: 16 changes
+node-27: 18 changes
+node-32: 7 changes
+node-34: 6 changes
+node-35: 6 changes
+node-126: 6 changes
+node-124: 6 changes
+node-118: 6 changes
+node-127: 6 changes
+node-112: 4 changes
+node-125: 4 changes
+node-110: 4 changes
+node-104: 6 changes
+node-106: 4 changes
+node-108: 4 changes
+node-105: 4 changes
+node-111: 4 changes
+node-107: 4 changes
+node-102: 4 changes
+node-109: 4 changes
+node-103: 4 changes
+node-100: 4 changes
+node-101: 4 changes
+node-10: 2 changes
+node-8: 2 changes
+node-9: 2 changes
+node-11: 2 changes
+node-13: 20 changes
+node-12: 20 changes
+node-96: 6 changes
+node-64: 6 changes
+node-14: 18 changes
+node-15: 18 changes
+node-97: 4 changes
+node-192: 2 changes
+node-1: 2 changes
+node-0: 2 changes
+node-2: 2 changes
+node-3: 4 changes
+node-224: 8 changes
+node-23: 14 changes
+node-197: 4 changes
+node-194: 4 changes
+node-193: 2 changes
+node-198: 2 changes
+node-199: 2 changes
+node-20: 14 changes
+node-22: 14 changes
+node-17: 2 changes
+node-18: 2 changes
+node-16: 2 changes
+node-21: 14 changes
+node-24: 14 changes
+node-7: 2 changes
+node-123: 6 changes
+node-122: 6 changes
+node-120: 6 changes
+node-119: 4 changes
+node-121: 6 changes
+node-117: 4 changes
+node-116: 6 changes
+node-115: 4 changes
+node-114: 4 changes
+node-113: 4 changes
+node-95: 6 changes
+node-92: 13 changes
+node-88: 4 changes
+node-94: 6 changes
+node-93: 6 changes
+node-91: 6 changes
+node-90: 6 changes
+node-89: 6 changes
+node-99: 4 changes
+node-98: 4 changes
+node-87: 4 changes
+node-86: 4 changes
+node-85: 4 changes
+node-84: 4 changes
+node-83: 4 changes
+node-82: 4 changes
+node-81: 4 changes
+node-80: 6 changes
+node-79: 4 changes
+node-78: 4 changes
+node-77: 4 changes
+node-76: 4 changes
+node-75: 7 changes
+node-74: 6 changes
+node-73: 6 changes
+node-72: 8 changes
+node-71: 40 changes
+node-70: 22 changes
+node-69: 26 changes
+node-68: 9 changes
+node-67: 34 changes
+node-66: 15 changes
+node-65: 6 changes
+node-53: 1 changes
+node-205: 2 changes
+node-207: 2 changes
+node-211: 2 changes
+node-208: 2 changes
+node-210: 2 changes
+node-214: 2 changes
+node-212: 2 changes
+node-222: 4 changes
+node-213: 2 changes
+node-209: 2 changes
+node-215: 2 changes
+node-204: 2 changes
+node-206: 2 changes
+node-19: 2 changes
+node-5: 2 changes
+node-6: 2 changes
+node-4: 2 changes
+
+Hardware Component Analysis:
+Most problematic components by node:
+node-233: Change: failed 48 times
+node-228: Change: failed 74 times
+node-ms0: Change: failed 81 times
+node-128: Change: failed 17 times
+node-160: Change: failed 13 times
+node-158: Change: failed 16 times
+node-191: Change: failed 12 times
+node-159: Change: failed 16 times
+node-183: Change: failed 13 times
+node-156: Change: failed 16 times
+node-188: Change: failed 12 times
+node-155: Change: failed 16 times
+node-186: Change: failed 13 times
+node-150: Change: failed 16 times
+node-190: Change: failed 12 times
+node-148: Change: failed 16 times
+node-173: Change: failed 12 times
+node-142: Change: failed 16 times
+node-184: Change: failed 13 times
+node-153: Change: failed 16 times
+node-177: Change: failed 12 times
+node-139: Change: failed 16 times
+node-174: Change: failed 12 times
+node-143: Change: failed 16 times
+node-182: Change: failed 13 times
+node-145: Change: failed 16 times
+node-146: Change: failed 16 times
+node-169: Change: failed 12 times
+node-167: Change: failed 12 times
+node-137: Change: failed 16 times
+node-172: Change: failed 12 times
+node-141: Change: failed 17 times
+node-131: Change: failed 16 times
+node-179: Change: failed 13 times
+node-130: Change: failed 16 times
+node-170: Change: failed 12 times
+node-134: Change: failed 16 times
+node-166: Change: failed 12 times
+node-135: Change: failed 16 times
+node-171: Change: failed 12 times
+node-136: Change: failed 16 times
+node-187: Change: failed 15 times
+node-152: Change: failed 16 times
+node-185: Change: failed 13 times
+node-157: Change: failed 18 times
+node-132: Change: failed 16 times
+node-163: Change: failed 12 times
+node-154: Change: failed 16 times
+node-175: Change: failed 12 times
+node-151: Change: failed 8 times
+node-162: Change: failed 12 times
+node-144: Change: failed 16 times
+node-189: Change: failed 14 times
+node-149: Change: failed 16 times
+node-180: Change: failed 13 times
+node-138: Change: failed 16 times
+node-181: Change: failed 13 times
+node-147: Change: failed 16 times
+node-178: Change: failed 17 times
+node-140: Change: failed 16 times
+node-176: Change: failed 13 times
+node-129: Change: failed 24 times
+node-168: Change: failed 12 times
+node-133: Change: failed 16 times
+node-165: Change: failed 12 times
+node-164: Change: failed 12 times
+node-161: Change: failed 12 times
+node-30: Change: failed 16 times
+node-29: Change: failed 20 times
+node-31: Change: failed 16 times
+node-28: Change: failed 16 times
+node-25: Change: failed 37 times
+node-26: Change: failed 35 times
+node-27: Change: failed 40 times
+node-32: Change: failed 35 times
+node-34: Change: failed 22 times
+node-35: Change: failed 22 times
+node-235: Change: failed 10 times
+node-126: Change: failed 18 times
+node-124: Change: failed 18 times
+node-118: Change: failed 18 times
+node-127: Change: failed 18 times
+node-112: Change: failed 16 times
+node-125: Change: failed 18 times
+node-110: Change: failed 22 times
+node-104: Change: failed 22 times
+node-106: Change: failed 22 times
+node-108: Change: failed 22 times
+node-105: Change: failed 22 times
+node-111: Change: failed 22 times
+node-107: Change: failed 22 times
+node-102: Change: failed 22 times
+node-109: Change: failed 22 times
+node-103: Change: failed 22 times
+node-100: Change: failed 22 times
+node-101: Change: failed 22 times
+node-10: Change: failed 18 times
+node-250: Change: failed 25 times
+node-249: Change: failed 27 times
+node-8: Change: failed 22 times
+node-9: Change: failed 19 times
+node-251: Change: failed 29 times
+node-11: Change: failed 22 times
+node-13: Change: failed 30 times
+node-12: Change: failed 34 times
+node-248: Change: failed 35 times
+node-96: Change: failed 22 times
+node-64: Change: failed 25 times
+node-14: Change: failed 33 times
+node-15: Change: failed 32 times
+node-246: Change: failed 36 times
+node-247: Change: failed 36 times
+node-245: Change: failed 37 times
+node-244: Change: failed 33 times
+node-33: Change: failed 6 times
+node-97: Change: failed 18 times
+node-192: Change: failed 133 times
+node-1: Change: failed 37 times
+node-0: Change: failed 33 times
+node-2: Change: failed 36 times
+node-3: Change: failed 19 times
+node-224: Change: failed 46 times
+node-225: Change: failed 20 times
+node-226: Change: failed 20 times
+node-23: Change: failed 33 times
+node-227: Change: failed 8 times
+node-200: Change: failed 126 times
+node-197: Change: failed 132 times
+node-194: Change: failed 124 times
+node-201: Change: failed 128 times
+node-193: Change: failed 130 times
+node-198: Change: failed 130 times
+node-203: Change: failed 126 times
+node-195: Change: failed 124 times
+node-202: Change: failed 132 times
+node-196: Change: failed 118 times
+node-199: Change: failed 132 times
+node-20: Change: failed 43 times
+node-22: Change: failed 33 times
+node-242: Change: failed 6 times
+node-230: Change: failed 7 times
+node-17: Change: failed 21 times
+node-18: Change: failed 20 times
+node-16: Change: failed 20 times
+node-229: Change: failed 9 times
+node-241: Change: failed 5 times
+node-21: Change: failed 32 times
+node-24: Change: failed 27 times
+node-240: Change: failed 5 times
+node-7: Change: failed 10 times
+node-234: Change: failed 25 times
+node-232: Change: failed 7 times
+node-123: Change: failed 16 times
+node-122: Change: failed 16 times
+node-120: Change: failed 16 times
+node-119: Change: failed 16 times
+node-121: Change: failed 16 times
+node-117: Change: failed 16 times
+node-116: Change: failed 16 times
+node-115: Change: failed 16 times
+node-114: Change: failed 16 times
+node-113: Change: failed 16 times
+node-95: Change: failed 22 times
+node-92: Change: failed 42 times
+node-88: Change: failed 20 times
+node-94: Change: failed 20 times
+node-93: Change: failed 20 times
+node-91: Change: failed 20 times
+node-90: Change: failed 20 times
+node-89: Change: failed 20 times
+node-99: Change: failed 16 times
+node-98: Change: failed 16 times
+node-87: Change: failed 20 times
+node-86: Change: failed 20 times
+node-85: Change: failed 20 times
+node-84: Change: failed 20 times
+node-83: Change: failed 20 times
+node-82: Change: failed 20 times
+node-81: Change: failed 20 times
+node-80: Change: failed 20 times
+node-79: Change: failed 20 times
+node-78: Change: failed 20 times
+node-77: Change: failed 20 times
+node-76: Change: failed 20 times
+node-75: Change: failed 30 times
+node-74: Change: failed 30 times
+node-73: Change: failed 30 times
+node-72: Change: failed 30 times
+node-71: Change: failed 44 times
+node-70: Change: failed 36 times
+node-69: Change: failed 34 times
+node-68: Change: failed 44 times
+node-67: Change: failed 48 times
+node-66: Change: failed 35 times
+node-65: Change: failed 30 times
+node-231: Change: failed 44 times
+node-49: Change: failed 4 times
+node-50: Change: failed 4 times
+node-60: Change: failed 4 times
+node-62: Change: failed 4 times
+node-52: Change: failed 4 times
+node-55: Change: failed 4 times
+node-38: Change: failed 4 times
+node-45: Change: failed 4 times
+node-46: Change: failed 4 times
+node-48: Change: failed 4 times
+node-61: Change: failed 4 times
+node-42: Change: failed 4 times
+node-43: Change: failed 4 times
+node-36: Change: failed 4 times
+node-39: Change: failed 4 times
+node-41: Change: failed 4 times
+node-51: Change: failed 4 times
+node-40: Change: failed 4 times
+node-59: Change: failed 4 times
+node-53: Change: failed 8 times
+node-56: Change: failed 4 times
+node-57: Change: failed 4 times
+node-58: Change: failed 4 times
+node-47: Change: failed 4 times
+node-54: Change: failed 4 times
+node-63: Change: failed 4 times
+node-44: Change: failed 4 times
+node-37: Change: failed 4 times
+node-205: Change: failed 30 times
+node-207: Change: failed 10 times
+node-211: Change: failed 12 times
+node-208: Change: failed 10 times
+node-210: Change: failed 26 times
+node-218: Change: failed 4 times
+node-221: Change: failed 4 times
+node-214: Change: failed 12 times
+node-217: Change: failed 4 times
+node-238: Change: failed 11 times
+node-212: Change: failed 12 times
+node-222: Change: failed 10 times
+node-243: Change: failed 5 times
+node-213: Change: failed 12 times
+node-209: Change: failed 10 times
+node-252: Change: failed 4 times
+node-236: Change: failed 6 times
+node-239: Change: failed 6 times
+node-223: Change: failed 4 times
+node-237: Change: failed 6 times
+node-215: Change: failed 12 times
+node-219: Change: failed 5 times
+node-204: Change: failed 10 times
+node-206: Change: failed 27 times
+node-220: Change: failed 4 times
+node-254: Change: failed 4 times
+node-216: Change: failed 4 times
+node-255: Change: failed 4 times
+node-253: Change: failed 4 times
+node-19: Change: failed 17 times
+node-5: Change: failed 8 times
+node-6: Change: failed 8 times
+node-4: Change: failed 8 times

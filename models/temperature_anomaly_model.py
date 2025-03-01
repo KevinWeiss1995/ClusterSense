@@ -35,37 +35,30 @@ class TemperatureAnomalyDetector:
 
     def prepare_features(self, data):
         """Prepare feature matrix from preprocessed data"""
-        # Select and validate features
+       
         features = data[self.feature_columns].copy()
         
-        # Handle missing values using newer pandas methods
         features = features.ffill().bfill()
         
-        # Fit and transform the scaler
         features_scaled = self.scaler.fit_transform(features)
         
         return features_scaled
 
     def fit(self, data_path: str):
         """Train the model and evaluate performance"""
-        # Original fit logic
+     
         processed_data = self.preprocessor.process(data_path).get_processed_data()
         node_temps = processed_data['node_temperatures']
         
-        # Prepare features
         X = self.prepare_features(node_temps)
         
-        # Fit the model
         self.model.fit(X)
         
-        # Get predictions and scores
         predictions = self.model.predict(X)
         scores = self.model.score_samples(X)
         
-        # Evaluate performance
         metrics = self.evaluate_predictions(predictions, scores, node_temps)
-        
-        # Print performance report
+    
         print("\nTemperature Anomaly Detection Report")
         print("===================================")
         print("\nData Summary:")
@@ -84,7 +77,6 @@ class TemperatureAnomalyDetector:
             print(f"  Range: {metrics['temperature_ranges']['anomalous']['min']:.1f}°C to {metrics['temperature_ranges']['anomalous']['max']:.1f}°C")
             print(f"  Average: {metrics['temperature_ranges']['anomalous']['mean']:.1f}°C ± {metrics['temperature_ranges']['anomalous']['std']:.1f}°C")
         
-        # Store metrics for later use
         self.metrics = metrics
         
         return self
@@ -102,23 +94,20 @@ class TemperatureAnomalyDetector:
         """
         try:
             if data_path is not None:
-                # Preprocess new data
+
                 processed_data = self.preprocessor.process(data_path).get_processed_data()
                 node_temps = processed_data['node_temperatures']
             
             if node_temps is None:
                 raise ValueError("Either data_path or node_temps must be provided")
             
-            # Prepare features
             X = self.prepare_features(node_temps)
             
-            # Predict anomalies
             predictions = self.model.predict(X)
             scores = self.model.score_samples(X)
             
-            # Add predictions to the original data
             results = node_temps.copy()
-            results['anomaly'] = predictions == -1  # True for anomalies
+            results['anomaly'] = predictions == -1 
             results['anomaly_score'] = scores
             
             return results
@@ -151,15 +140,12 @@ class TemperatureAnomalyDetector:
     def save_model(self, model_name: str, metadata: Dict[str, Any] = None) -> str:
         """Save the model and its metadata"""
         try:
-            # Get results directory
             results_dir = get_results_dir()
             
-            # Create model-specific directory with timestamp
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
             model_dir = results_dir / f"{model_name}_{timestamp}"
             model_dir.mkdir(parents=True, exist_ok=True)
             
-            # Convert numpy types to Python native types for serialization
             def convert_to_serializable(obj):
                 if isinstance(obj, np.integer):
                     return int(obj)
@@ -169,7 +155,6 @@ class TemperatureAnomalyDetector:
                     return obj.tolist()
                 return obj
 
-            # Prepare model metadata with converted values
             model_info = {
                 'model_version': '1.0.0',
                 'creation_timestamp': datetime.now().isoformat(),
@@ -182,21 +167,16 @@ class TemperatureAnomalyDetector:
                 }
             }
             
-            # Add custom metadata if provided
             if metadata:
-                # Convert any numpy values in metadata
                 metadata = {k: convert_to_serializable(v) for k, v in metadata.items()}
                 model_info.update(metadata)
             
-            # Save the model using joblib instead of MLflow
             model_path = model_dir / 'model.joblib'
             joblib.dump(self.model, model_path)
             
-            # Save scaler
             scaler_path = model_dir / 'scaler.joblib'
             joblib.dump(self.scaler, scaler_path)
             
-            # Save metadata
             metadata_path = model_dir / 'metadata.json'
             with open(metadata_path, 'w') as f:
                 json.dump(model_info, f, indent=2)
@@ -217,11 +197,9 @@ class TemperatureAnomalyDetector:
             TemperatureAnomalyDetector: Loaded model instance
         """
         try:
-            # Validate model directory
             if not os.path.exists(path):
                 raise ValueError(f"Model path does not exist: {path}")
             
-            # Load model configuration
             config_path = os.path.join(path, 'metadata.json')
             if not os.path.exists(config_path):
                 raise ValueError(f"Model configuration not found at {config_path}")
@@ -229,20 +207,16 @@ class TemperatureAnomalyDetector:
             with open(config_path, 'r') as f:
                 config = json.load(f)
             
-            # Validate model version and compatibility
             model_info = config.get('model_info', {})
             if model_info.get('model_version', '0.0.0') < '1.0.0':
                 raise ValueError("Incompatible model version")
             
-            # Load the model
             model_path = os.path.join(path, 'model.joblib')
             self.model = joblib.load(model_path)
             
-            # Load scaler
             scaler_path = os.path.join(path, 'scaler.joblib')
             self.scaler = joblib.load(scaler_path)
             
-            # Load configuration
             self.feature_columns = config['feature_columns']
             
             return self
