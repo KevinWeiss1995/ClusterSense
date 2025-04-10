@@ -8,7 +8,7 @@ Machine learning system for detecting temperature anomalies in HPC clusters.
 - Production-ready data preprocessing pipeline
 - Comprehensive logging and error handling
 
-## Installationbash
+## Installation
 
 ```
 
@@ -22,22 +22,5 @@ pip install -r requirements.txt
 ```
 python train/temp_anomaly_train.py --data-path data/data.csv
 ```
-
-## Project Structure
-
-```
-.
-├── models/
-│   └── temperature_anomaly_model.py
-├── preprocess/
-│   └── preprocess.py
-├── utils/
-│   └── path_utils.py
-├── train/
-│   └── temp_anomaly_train.py
-└── tests/
-    └── test_preprocessing.py
-```
-
 
 
